@@ -124,3 +124,17 @@ class EmojiFun: QuickSpec {
         }
     }
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
